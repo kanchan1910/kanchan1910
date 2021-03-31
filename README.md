@@ -5,7 +5,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a Computer Science undergraduate student at Jaipur Engineering College And Research Centre. I am a competitive programmer.I have thorough understanding of data structures, algorithms, and internals of Operating System, I am a curious learner passionate about problem-solving and optimization.I am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks , Hackerearth.I am a GSSOC'21 participant. I love contributing to open source.I have been a part of Codechef Mentorship Program.
+I am a Computer Science undergraduate student at Jaipur Engineering College And Research Centre. I am a competitive programmer.I have thorough understanding of data structures, algorithms, and internals of Operating System, I am a curious learner passionate about problem-solving and optimization.I have proficient understanding of code versioning (using Git), I have quite good experience working with C++, Python, and SQL. I am GSSOc'21 participant.I love contributing to open source.I have been part of Codechef Mentorship Program.I have made some projects on deep learning using Pytorch.I have done data analysis aprojects.and i am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks , Hackerearth.I am a GSSOC'21 participant. I love debugging.
 <br>
 I’m currently exploring Web development and improving my problem solving skills.
 
@@ -16,7 +16,7 @@ I’m currently exploring Web development and improving my problem solving skill
 
 <p align="center">
   <samp>
-My strengths are I am hardworking and passionate about my work , I feel restless until I complete my work. I am sincere and dedicated towards the work that is assigned to me.I love exploring and gaining knowledge.
+I am hardworking and passionate about my work , I feel restless until I complete my work. I am sincere and dedicated towards the work that is assigned to me.I love exploring and gaining knowledge.
   </samp><br><br>
  <h2 align="center"> 👨‍💻 My Weekness?</h2>
 
