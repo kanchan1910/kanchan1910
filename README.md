@@ -5,9 +5,9 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a Computer Science undergraduate student at Jaipur Engineering College And Research Centre. I am a competitive programmer.I have thorough understanding of data structures, algorithms, and internals of Operating System, I am a curious learner passionate about problem-solving and optimization.I have proficient understanding of code versioning (using Git), I have quite good experience working with C++, Python, and SQL. I am GSSOc'21 participant.I love contributing to open source.I have been part of Codechef Mentorship Program.I have made some projects on deep learning using Pytorch.I have done data analysis projects and i am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks , Hackerearth.I love debugging.I have also worked on data analysis and deep learning projects .I love writing tech blogs on Medium.
+I am a Computer Science undergraduate student at Jaipur Engineering College And Research Centre. I am a competitive programmer.I have thorough understanding of data structures, algorithms, and internals of Operating System, I am a curious learner passionate about problem-solving and optimization.I have proficient understanding of code versioning (using Git), I have quite good experience working with C++, Python, and SQL. I am GSSOc'21 participant.I love contributing to open source.I have been part of Codechef Mentorship Program.I am interested in Web development.I have also worked on data analysis and deep learning projects .I am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks , Hackerearth.I love debugging.I love writing tech blogs on Medium.
 <br>
-I’m currently exploring Web development and improving my problem solving skills.
+I’m currently exploring Web development and working on my problem solving skills.
 
   </samp><br><br>
 
