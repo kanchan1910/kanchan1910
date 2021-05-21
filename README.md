@@ -6,21 +6,23 @@
 <p align="center">
   <samp>
 
-I am a Computer Science undergraduate student at Jaipur Engineering College And Research Center. I am a competitive programmer and a web developer. I majorly work on Djang, vue.js, Tailwind CSS, Bootstrap, and Javascript.
+I am a Computer Science undergraduate student at Jaipur Engineering College And Research Center. 
+   <br>
+    -> I am a competitive programmer and a web developer. I majorly work on Djang, vue.js, Tailwind CSS, Bootstrap, and Javascript.
 <br>
-I am a curious learner passionate about problem-solving and optimization.
+    -> I am a curious learner passionate about problem-solving and optimization.
     <br>
-I have proficient understanding of code versioning (using Git), I have quite good experience working with C++, Python, and SQL. 
+    -> I have proficient understanding of code versioning (using Git), I have quite good experience working with C++, Python, and SQL. 
     <br>
-I am an open-source contributor at GSSOC and I have been part of the CodeChef Mentorship Program 2020.
+    -> I am an open-source contributor at GSSOC and I have been part of the CodeChef Mentorship Program 2020.
     <br>
-I have the responsibility of campus technical lead at Geeksforgeeks.
+    ->I am the campus technical lead at Geeksforgeeks.
     <br>
-I have also worked on data analysis and deep learning. 
+    ->I have also worked on data analysis and deep learning. 
     <br>
-I enjoy being in an environment that requires me to work outside of my comfort and knowledge set. 
-    <br>
-I am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks , Hackerearth.I love writing tech blogs.
+    ->I enjoy being in an environment that requires me to work outside of my comfort and knowledge set. 
+    <br>  
+    ->I am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks , Hackerearth. And at last I love writing tech blogs.
 <br>
   </samp><br><br>
 
