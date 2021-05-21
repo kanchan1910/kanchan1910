@@ -1,8 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kanchan Jeswani</h1>
-<!--<img src="\home\manojeswani\pictures\happiness.png"/>-->
 
-
-<h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
 
