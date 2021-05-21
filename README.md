@@ -6,7 +6,7 @@
 <p align="center">
   <samp>
 
-I am a Computer Science undergraduate student at Jaipur Engineering College And Research Center. 
+    * I am a Computer Science undergraduate student at Jaipur Engineering College And Research Center. 
    <br>
     * I am a competitive programmer and a web developer. I majorly work on Djang, vue.js, Tailwind CSS, Bootstrap, and Javascript.
 <br>
@@ -23,7 +23,6 @@ I am a Computer Science undergraduate student at Jaipur Engineering College And 
     * I have also worked on data analysis and deep learning. 
     <br>
     * I enjoy being in an environment that requires me to work outside of my comfort and knowledge set. 
-    <br>  
     * I am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks and at last I love writing tech blogs.
 <br>
   </samp><br><br>
