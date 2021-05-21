@@ -6,7 +6,7 @@
 <p align="center">
   <samp>
 
-    * I am a Computer Science undergraduate student at Jaipur Engineering College And Research Center. 
+      I am a Computer Science undergraduate student at Jaipur Engineering College And Research Center. 
    <br>
     * I am a competitive programmer and a web developer. I majorly work on Djang, vue.js, Tailwind CSS, Bootstrap, and Javascript.
 <br>
