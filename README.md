@@ -15,8 +15,6 @@
     <br>
     * I am an open-source contributor at GSSOC and I have been part of the CodeChef Mentorship Program 2020.
     <br>
-    * I am the campus Technical head at Geeksforgeeks.
-    <br>
     * I have also worked on data analysis and deep learning. 
     <br>
     * I enjoy being in an environment that requires me to work outside of my comfort and knowledge set. <br>
