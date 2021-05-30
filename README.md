@@ -31,7 +31,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=kanchan1910" alt="kanchan1910" /> 
 
-<br><br>
+<br>
  # **Resume** : <a href="https://drive.google.com/file/d/13KIXACVFN2ntfdjOZvQlmIMZXAlavixJ/view?usp=sharing" target="_blank" rel="nofollow">Click to view</a></p>
  <br>
 
