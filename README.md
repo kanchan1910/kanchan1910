@@ -5,8 +5,10 @@
 
       I am a Computer Science undergraduate student at Jaipur Engineering College And Research Center. 
    <br>
-    *  I am a competitive programmer and a web developer. I majorly work on Django, vue.js, Tailwind CSS, Bootstrap, and Javascript.
+    *  I am a competitive programmer and a web developer. 
 <br>
+      *  I majorly work on Django, vue.js, Tailwind CSS, Bootstrap, and Javascript.
+    <br>
     * I am a curious learner passionate about problem-solving and optimization.
     <br>
     * I have a thorough understanding of data structures and algorithms.
