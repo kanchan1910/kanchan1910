@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kanchan Jeswani</h1>
+<h1 align="center">Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Kanchan Jeswani</h1>
 
 <p align="center">
   <samp>
