@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
 
-      I am a Computer Science undergraduate student at Jaipur Engineering College And Research Center. 
+      I am a Computer Science undergraduate student at Jaipur Engineering College And Research Centre. 
    <br>
     *  I am a competitive programmer and a web developer. 
 <br>
