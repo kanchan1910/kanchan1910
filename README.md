@@ -60,13 +60,6 @@
 <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <br><br>
 </p>
-<h2 align="center"> 🔭 Frameworks</h2>
-<p align="center">
-
-
-
-</p>
-<br><br>
 </p>
 <h2 align="center"> 🔭 Version Control</h2>
 <p align="center">
