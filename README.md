@@ -9,11 +9,13 @@
 <br>
     * I am a curious learner passionate about problem-solving and optimization.
     <br>
-    * I have a thorough understanding of data structures and algorithms 
+    * I have a thorough understanding of data structures and algorithms.
     <br>
     * I have proficient understanding of code versioning (using Git), knowledge of Unix/Linux and quite good experience working with C++, Python, and SQL.
     <br>
     * I am an open-source contributor at GSSOC and I have been part of the CodeChef Mentorship Program 2020.
+    <br>
+    * I am the Campus Technical Head at GeeksforGeeks.
     <br>
     * I have also worked on data analysis and deep learning. 
     <br>
