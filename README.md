@@ -46,41 +46,30 @@
   <a target="_blank" href="https://auth.geeksforgeeks.org/user/kanchanjeswani/practice/"><img src="https://img.shields.io/badge/geeksforgeeks-%23323330.svg?&style=for-the-badge&logo=geeksforgeekslogoColor=white" /></a>
 </p>
 
-
+<br>
 <h2 align="center"> 🔭 Programming Languages and Frameworks</h2>
 <p align="center">
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%23F7DF1E.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23F7DF1E.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23F7DF1E.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSSs%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue&logoColor=%2361DAFB"/>
 
-<br><br>
 </p>
-</p>
-<h2 align="center"> 🔭 Version Control</h2>
+<br>
+<h2 align="center"> 🔭 Version Control, Developer/Forums and blogging</h2>
 <p align="center">
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-</p>
-<br><br>
-<h2 align="center"> 🔭 Developer/Forums</h2>
-<p align="center">
 <img alt="Quora" src="https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 <img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>
-
-</p>
-<br><br>
-<h2 align="center"> 🔭 Blog</h2>
-<p align="center">
 <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 
 </p>
