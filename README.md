@@ -1,37 +1,43 @@
-<h1 align="center">Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Kanchan Jeswani</h1>
+<h1 align="center">  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Kanchan Jeswani</h1>
 
 <p align="center">
   <samp>
 
       I am a Computer Science undergraduate student at Jaipur Engineering College And Research Centre. 
    <br>
-    *  I am a competitive programmer and a web developer. 
+    ⚡   I am a competitive programmer and a web developer. 
 <br>
-      *  I majorly work on Django, vue.js, Tailwind CSS, Bootstrap, and Javascript.
+      ⚡   I majorly work on Django, vue.js, Tailwind CSS, Bootstrap, and Javascript.
     <br>
-    * I am a curious learner passionate about problem-solving and optimization.
+    ⚡  I am a curious learner passionate about problem-solving and optimization.
     <br>
-    * I have a thorough understanding of data structures and algorithms.
+    ⚡  I have a thorough understanding of data structures and algorithms.
     <br>
-    * I have proficient understanding of code versioning (using Git), knowledge of Unix/Linux and quite good experience working with C++, Python, and SQL.
+    ⚡  I have proficient understanding of code versioning (using Git), knowledge of Unix/Linux and quite good experience working with C++, Python, and SQL.
     <br>
-    * I am an open-source contributor at GSSOC and I have been part of the CodeChef Mentorship Program 2020.
+    ⚡  I am an open-source contributor at GSSOC and I have been part of the CodeChef Mentorship Program 2020.
     <br>
-    * I am the Campus Technical Head at GeeksforGeeks.
+    ⚡  I am the Campus Technical Head at GeeksforGeeks.
     <br>
-    * I have also worked on data analysis and deep learning. 
+    ⚡  I have also worked on data analysis and deep learning. 
     <br>
-    * I enjoy being in an environment that requires me to work outside of my comfort and knowledge set. <br>
-    * I am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks.
+    ⚡  I enjoy being in an environment that requires me to work outside of my comfort and knowledge set. <br>
+    ⚡  I am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks.
    <br>
-    * I love writing tech blogs.
+    ⚡  I love writing tech blogs.
 
 <br>
   </samp><br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=kanchan1910" alt="kanchan1910" /> 
+  
 
+  <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=kanchan1910" alt="kanchan1910" /> 
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/kanchan1910?label=Followers&style=social"> 
+  <img src="https://img.shields.io/github/stars/kanchan1910?label=Stars" alt="Total Stars">
+</p>
 <br><br>
+
  # **Resume** : <a href="https://drive.google.com/file/d/13KIXACVFN2ntfdjOZvQlmIMZXAlavixJ/view?usp=sharing" target="_blank" rel="nofollow">Click to view</a></p>
  <br>
 
