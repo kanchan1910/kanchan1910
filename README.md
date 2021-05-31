@@ -5,7 +5,9 @@
 
       I am a Computer Science undergraduate student at Jaipur Engineering College And Research Centre. 
    <br>
+    <p>
     ⚡   I am a competitive programmer and a web developer. 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
 <br>
       ⚡   I majorly work on Django, vue.js, Tailwind CSS, Bootstrap, and Javascript.
     <br>
