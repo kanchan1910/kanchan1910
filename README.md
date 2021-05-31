@@ -35,7 +35,6 @@
 
   <p align="center">
  <img src="https://komarev.com/ghpvc/?username=kanchan1910" alt="kanchan1910" /> 
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/kanchan1910?label=Followers&style=social"> 
   <img src="https://img.shields.io/github/stars/kanchan1910?label=Stars" alt="Total Stars">
 </p>
 <br><br>
