@@ -17,7 +17,7 @@
     <br>
     ⚡  I have proficient understanding of code versioning (using Git), knowledge of Unix/Linux and quite good experience working with C++, Python, and SQL.
     <br>
-    ⚡  I am an open-source contributor at GSSOC and I have been part of the CodeChef Mentorship Program 2020.
+    ⚡  I am an open-source contributor at GSSOC, LGM SOC and I have been part of the CodeChef Mentorship Program 2020.
     <br>
     ⚡  I am the Campus Technical Head at GeeksforGeeks.
     <br>
