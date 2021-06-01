@@ -39,7 +39,7 @@
 </p>
 <br><br>
 
- # **Resume** : <a href="https://drive.google.com/file/d/13KIXACVFN2ntfdjOZvQlmIMZXAlavixJ/view?usp=sharing" target="_blank" rel="nofollow">Click to view</a></p>
+ # **Resume** : <a href="https://drive.google.com/file/d/1yjysL7GcTfOcan-arMzhqJ1WvS9hQbEy/view?usp=sharing" target="_blank" rel="nofollow">Click to view</a></p>
  <br>
   
  # **Linkedin** : <a href="https://www.linkedin.com/in/kanchan-jeswani-888827173/" target="_blank" rel="nofollow">Click to view</a></p>
