@@ -88,7 +88,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan1910&theme=tokyonight" alt="kanchan1910" />
 <img src="https://github-readme-stats.vercel.app/api?username=kanchan1910&show_icons=true&hide_border=true&theme=tokyonight" alt="kanchan1910" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan1910&layout=compact&theme=tokyonight" alt="kanchan1910" />
-<img src="https://github-contribution-stats.vercel.app/api/?username=kanchan1910" alt="kanchan1910" />
+<!-- <img src="https://github-contribution-stats.vercel.app/api/?username=kanchan1910" alt="kanchan1910" /> -->
 <img src="https://activity-graph.herokuapp.com/graph?username=kanchan1910" alt="kanchan1910" />
 </p>
 
