@@ -34,7 +34,7 @@
     <br> <br>
     🌟  Having previously worked on data analysis and deep learning. 
     <br> <br>
-     🌱  Active participant on various programming platforms.
+     🌱  Active participant on programming platforms.
    <br> <br>
     ❤️  Love writing tech blogs.
 
