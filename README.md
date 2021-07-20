@@ -2,14 +2,14 @@
 
 <h2 align="center"> Competitive Programmer and a Full Stack Web Developer</h2>      
 
-<h3> About Me :star: </h3>
+
 <p align="center">
   <samp>
     <p>
-    ⚡ Having keen interest in problem solving and backend development.
+  ⭐ Having keen interest in problem solving and backend development.
 <br>
        <br>
-      🔭  Majorly working on Django, MYSQL, vue.js, postgreSQL, Tailwind CSS, Bootstrap, and Javascript.
+   ⚡  Majorly working on Django, MYSQL, vue.js, postgreSQL, Tailwind CSS, Bootstrap, and Javascript.
     <br>
       <br>
     😄  Having thorough understanding of data structures and algorithms.
