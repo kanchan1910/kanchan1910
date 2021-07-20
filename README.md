@@ -1,31 +1,42 @@
 <h1 align="center">  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Kanchan Jeswani</h1>
 
+<h2 align="center"> Competitive Programmer and a Full Stack Web Developer</h2>      
+
+<h3> About Me :star: </h3>
 <p align="center">
   <samp>
-
-   <br>
     <p>
-    ⚡   I am a competitive programmer and a web developer. 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+    ⚡ Having keen interest in problem solving and backend development.
 <br>
-      ⚡   I majorly work on Django, vue.js, Tailwind CSS, Bootstrap, and Javascript.
+       <br>
+      🔭  Majorly working on Django, MYSQL, vue.js, postgreSQL, Tailwind CSS, Bootstrap, and Javascript.
     <br>
-    ⚡  I am a curious learner passionate about problem-solving and optimization.
+      <br>
+    😄  Having thorough understanding of data structures and algorithms.
     <br>
-    ⚡  I have a thorough understanding of data structures and algorithms.
+       <br>
+     👀  Having quite good experience working with C++, Python, and SQL.
     <br>
-    ⚡  I have proficient understanding of code versioning (using Git), knowledge of Unix/Linux and quite good experience working with C++, Python, and SQL.
-    <br>
-    ⚡  I am an open-source contributor at GSSOC, LGM SOC and I have been part of the CodeChef Mentorship Program 2020.
-    <br>
-    ⚡  I am the Campus Technical Head at GeeksforGeeks.
-    <br>
-    ⚡  I have also worked on data analysis and deep learning. 
-    <br>
-    ⚡  I enjoy being in an environment that requires me to work outside of my comfort and knowledge set. <br>
-    ⚡  I am an active participant on various programming grounds such as Leetcode , CodeChef, Codeforces, Google Kickstart, Leetcode, Hackerrank, Geeksforgeeks.
-   <br>
-    ⚡  I love writing tech blogs.
+       <br>
+    🎓  Having proficient understanding of code versioning (using Git), and knowledge of Unix/Linux.
+    <br> <br>
+   ❣️  Being selected as a Google DSC LEAD and Microsoft Student Partner 2021-2022.
+     <br> <br>
+    💻  Working as a problem setter/reviewer and the full stack developer.
+    <br> <br>
+   😄  Working as an Open-source contributor at GSSOC'21, LGM SOC'21.
+    <br> <br>
+   💥  Being selected as the Campus Technical Head at GeeksforGeeks.
+     <br> <br>
+    🤩  Have been a part of the CodeChef 1:1 Mentorship Program 2020.
+    <br> <br>
+    👩‍🎓  Awarded with the Grace Hopper Scholarship'21.
+    <br> <br>
+    🌟  Having previously worked on data analysis and deep learning. 
+    <br> <br>
+     🌱  Active participant on various programming platforms.
+   <br> <br>
+    ❤️  Love writing tech blogs.
 
 <br>
   </samp><br><br>
@@ -88,8 +99,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kanchan1910&show_icons=true&hide_border=true&theme=tokyonight" alt="kanchan1910" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan1910&layout=compact&theme=tokyonight" alt="kanchan1910" />
 <!-- <img src="https://github-contribution-stats.vercel.app/api/?username=kanchan1910" alt="kanchan1910" /> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=kanchan1910" alt="kanchan1910" />
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=kanchan1910" alt="kanchan1910" /> -->
 </p>
+
+[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanchan1910&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/RaveenaBhasin/github-readme-activity-graph)
 
 <br>
 <h2 align="center">📫 Reach out to me on</h2>
