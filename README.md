@@ -18,7 +18,7 @@
      👀  Having quite good experience working with C++, Python, and SQL.
     <br>
        <br>
-    🎓  Having proficient understanding of code versioning (using Git), and knowledge of Unix/Linux.
+    🎓  Having proficient understanding of code versioning (using Git), and the knowledge of Unix/Linux.
     <br> <br>
    ❣️  Being selected as a Google DSC LEAD and Microsoft Student Partner 2021-2022.
      <br> <br>
