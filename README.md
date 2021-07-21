@@ -102,7 +102,8 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=kanchan1910" alt="kanchan1910" /> -->
 </p>
 
-[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanchan1910&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/RaveenaBhasin/github-readme-activity-graph)
+<!-- [![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanchan1910&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/kanchan1910/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanchan1910&theme=react-dark)](https://github.com/kanchan1910/github-readme-activity-graph)
 
 <br>
 <h2 align="center">📫 Reach out to me on</h2>
