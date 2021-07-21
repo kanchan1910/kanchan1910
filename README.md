@@ -98,12 +98,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan1910&theme=tokyonight" alt="kanchan1910" />
 <img src="https://github-readme-stats.vercel.app/api?username=kanchan1910&show_icons=true&hide_border=true&theme=tokyonight" alt="kanchan1910" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan1910&layout=compact&theme=tokyonight" alt="kanchan1910" />
-<!-- <img src="https://github-contribution-stats.vercel.app/api/?username=kanchan1910" alt="kanchan1910" /> -->
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=kanchan1910" alt="kanchan1910" /> -->
-</p>
 
-<!-- [![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanchan1910&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/kanchan1910/github-readme-activity-graph) -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanchan1910&theme=react-dark)](https://github.com/kanchan1910/github-readme-activity-graph)
+</p>
+<!--  <img src="https://github-contribution-stats.vercel.app/api/?username=kanchan1910&theme=react-dark alt="kanchan1910" /> -->
+ <img src="https://activity-graph.herokuapp.com/graph?username=kanchan1910&theme=react-dark" alt="kanchan1910" /> 
 
 <br>
 <h2 align="center">📫 Reach out to me on</h2>
