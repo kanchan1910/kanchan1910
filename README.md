@@ -41,13 +41,7 @@
 <br>
   </samp><br><br>
 
-  
 
-  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=kanchan1910" alt="kanchan1910" /> 
-  <img src="https://img.shields.io/github/stars/kanchan1910?label=Stars" alt="Total Stars">
-</p>
-<br><br>
 
  # **Linkedin** : <a href="https://www.linkedin.com/in/kanchan-jeswani-888827173/" target="_blank" rel="nofollow">Click to view</a></p>
  <br>
