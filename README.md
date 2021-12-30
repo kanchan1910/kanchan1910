@@ -1,6 +1,6 @@
 <h1 align="center">  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Kanchan Jeswani</h1>
 
-<h2 align="center"> Competitive Programmer and a Full Stack Web Developer</h2>      
+<h2 align="center"> Software Developer and a passionate Competitive Programmer</h2>      
 
 
 <p align="center">
